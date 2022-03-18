@@ -1,2 +1,3 @@
 # mock-data-JavaScript
-mock data js
+**Mock data for your project )**
+all data in JS array
